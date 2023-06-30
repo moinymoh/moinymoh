@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **moinymoh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing](https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing](https://drive.google.com/file/d/1-B0DY5ig_kAm-5Vz1C0uUesJErdNQqkN/view?usp=sharing)
 
 - ⚡ Fun fact **I like football and Swimming**
 
