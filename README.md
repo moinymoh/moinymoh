@@ -4,7 +4,7 @@
     <img src="https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" alt="GIF 2" height="200" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohammad Moin</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Mohammad Moin</h1>
 <h3 align="center">A passionate and zealous Full Stack Developer.</h3>
 
 
@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinymoh&label=Profile%20views&color=0e75b6&style=flat" alt="moinymoh" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently interning at **Amazon** for SDE position.
 
 - 👨‍💻 Checkout my portfolio [https://moin-portfolio.vercel.app/](https://moin-portfolio.vercel.app/)
 
